@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group>
+        <item
+            android:id="@+id/home"
+            android:icon="@drawable/ic_home_white_24dp"
+            android:title="@string/home" />
+        <item
+            android:id="@+id/account"
+            android:icon="@drawable/ic_person_24dp"
+            android:title="@string/account" />
+        <item
+            android:id="@+id/favorite"
+            android:icon="@drawable/ic_favorite_24dp"
+            android:title="@string/favorite" />
+        <item
+            android:id="@+id/search"
+            android:icon="@drawable/ic_search_48dp"
+            android:title="@string/search" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/request"
+                android:icon="@drawable/ic_mail_24dp"
+                android:title="@string/request" />
+            <item
+                android:id="@+id/starred"
+                android:icon="@drawable/ic_star_24dp"
+                android:title="@string/starred" />
+            <item
+                android:id="@+id/report"
+                android:icon="@drawable/ic_report_24dp"
+                android:title="@string/report" />
+        </menu>
+    </item>
+
+    <group
+        android:id="@+id/appManager"
+        android:visible="false">
+        <item android:title="Manager">
+            <menu>
+                <item
+                    android:id="@+id/setting"
+                    android:icon="@drawable/ic_settings_24dp"
+                    android:title="설정"/>
+                <item
+                    android:id="@+id/manager"
+                    android:icon="@drawable/ic_manager_black_24dp"
+                    android:title="관리자"/>
+                <item
+                    android:id="@+id/notice"
+                    android:icon="@drawable/ic_event_note_black_24dp"
+                    android:title="공지사항"/>
+            </menu>
+        </item>
+    </group>
+
+</menu>

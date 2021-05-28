@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_request_song"
+        android:title="Song Request"
+        android:icon="@drawable/ic_request_song"/>
+
+    <item
+        android:id="@+id/nav_request_other"
+        android:title="Others Request"
+        android:icon="@drawable/ic_request_other"/>
+
+    <item
+        android:id="@+id/nav_error"
+        android:title="Error Report"
+        android:icon="@drawable/ic_error"/>
+
+    <item
+        android:id="@+id/nav_delete_account"
+        android:title="Deactivate Request"
+        android:icon="@drawable/ic_delete_account"/>
+
+</menu>

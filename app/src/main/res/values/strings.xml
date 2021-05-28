@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">Kyrics</string>
+    <string name="hideYoutube">HIde</string>
+    <string name="input_lyrics">Enter Whole Lyrics</string>
+    <string name="pinYoutube">Pin</string>
+    <string name="pronounce">Pronounce</string>
+    <string name="showYoutube">Show</string>
+    <string name="singer">Singer</string>
+    <string name="title">Song Title</string>
+    <string name="translate">Translate</string>
+    <string name="youtube_address">Youtube Address</string>
+    <string name="success">success</string>
+    <string name="failure">failure</string>
+    <string name="input_login">Input Email or Password</string>
+    <string name="failure_login">Failure login</string>
+    <string name="hasSpace">There is a space</string>
+    <string name="re_enter">Please re-enter</string>
+    <string name="loginText">Please log in again</string>
+    <string name="leave_msg">It takes about a day to delete your account</string>
+    <string name="leave_title">Deactivate Account</string>
+    <string name="leave_main">Do you want to Delete your account?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="uploading_title">Uploading...</string>
+    <string name="uploading_msg">uploaded</string>
+    <string name="welcome">Welcome</string>
+    <string name="back_msg">Please click BACK again to exit</string>
+    <string name="smaller">Smaller</string>
+    <string name="bigger">Bigger</string>
+    <string name="like_it">Like it</string>
+    <string name="like_it_cancel">Cancel like it</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="Empty">Empty here</string>
+    <string name="write_pronounce">Wrte pronounce down</string>
+    <string name="complete">Complete</string>
+    <string name="write_translate">Write translate down</string>
+    <string name="password_msg">The password is correct.</string>
+    <string name="password_wrong_msg">The password is incorrect!</string>
+    <string name="failure_register">Authentication failed</string>
+    <string name="success_register">Authentication successful</string>
+    <string name="check_email">Sent email</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="join">Join</string>
+    <string name="information">Account</string>
+    <string name="email">Email</string>
+    <string name="nickname">Nickname</string>
+    <string name="create_nickname_msg">Please create nickname</string>
+    <string name="deactivate">Deactivate</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="change_nickname">Change nick</string>
+    <string name="loginMsg">You need to login</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="change_nickname_long">Change nickname</string>
+    <string name="change">Change</string>
+    <string name="request">Request</string>
+    <string name="request_song">Song Request</string>
+    <string name="others">Others</string>
+    <string name="send">Send</string>
+    <string name="home">Home</string>
+    <string name="account">Account</string>
+    <string name="favorite">Favorite</string>
+    <string name="search">Search</string>
+    <string name="starred">Starred</string>
+    <string name="report">Report</string>
+    <string name="wait">Wait a moment...</string>
+    <string name="cancel">cancel</string>
+    <string name="logging">Logging in...</string>
+    <string name="updating_nick">Updating Nickname...</string>
+    <string name="password_message">The length of Password is at least 6 characters.</string>
+    <string name="password_check">Password check</string>
+    <string name="email_message">Invalid email type</string>
+    <string name="no_fav_msg">Add a favorite song !</string>
+
+    <string name="ad_id" translatable="false">ca-app-pub-4482825094185989~2168970714</string>
+    <string name="banner_ad_unit_id" translatable="false">ca-app-pub-4482825094185989/7595437650</string>
+    <string name="interstitial_ad_unit_id" translatable="false">ca-app-pub-4482825094185989/1851338149</string>
+
+</resources>

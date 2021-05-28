@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "553279192099",
+    "firebase_url": "https://newkpop-84c7f.firebaseio.com",
+    "project_id": "newkpop-84c7f",
+    "storage_bucket": "newkpop-84c7f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553279192099:android:c62950c41a4cc5ba754596",
+        "android_client_info": {
+          "package_name": "com.chancestudio.newkpop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "553279192099-t98jbr3sd05gr5ccjduiu7v310tdak6q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chancestudio.newkpop",
+            "certificate_hash": "7a991cf906e7bb9602ff3d4eb53434059b1163c2"
+          }
+        },
+        {
+          "client_id": "553279192099-6qcj0939ur1ifdltra5pjtfd7c3jp7av.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM10pA39nsb4xAjXka_ida6Ejtg-uQW1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "553279192099-6qcj0939ur1ifdltra5pjtfd7c3jp7av.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
