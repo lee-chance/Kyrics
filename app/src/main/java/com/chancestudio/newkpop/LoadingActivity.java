@@ -19,28 +19,26 @@ public class LoadingActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_loading);
 
-        interstitialAd = new InterstitialAd(this);
-        interstitialAd.setAdUnitId(getString(R.string.interstitial_ad_unit_id));
-        interstitialAd.loadAd(new AdRequest.Builder().build());
+//        interstitialAd = new InterstitialAd(this);
+//        interstitialAd.setAdUnitId(getString(R.string.interstitial_ad_unit_id));
+//        interstitialAd.loadAd(new AdRequest.Builder().build());
+//
+//        interstitialAd.setAdListener(new AdListener(){
+//            @Override
+//            public void onAdLoaded() {
+//                super.onAdLoaded();
+//                interstitialAd.show();
+//            }
+//
+//            @Override
+//            public void onAdClosed() {
+//                super.onAdClosed();
+//                Intent intent = new Intent(getApplicationContext(), MainActivity.class);
+//                startActivity(intent);
+//                finish();
+//            }
+//        });
 
-        interstitialAd.setAdListener(new AdListener(){
-            @Override
-            public void onAdLoaded() {
-                super.onAdLoaded();
-                interstitialAd.show();
-            }
-
-            @Override
-            public void onAdClosed() {
-                super.onAdClosed();
-                Intent intent = new Intent(getApplicationContext(), MainActivity.class);
-                startActivity(intent);
-                finish();
-            }
-        });
-
-
-/*
         Handler mHandler = new Handler();
         mHandler.postDelayed(new Runnable() {
             @Override
@@ -50,7 +48,6 @@ public class LoadingActivity extends AppCompatActivity {
                 finish();
             }
         }, 1500);
-*/
 
     }
 }
